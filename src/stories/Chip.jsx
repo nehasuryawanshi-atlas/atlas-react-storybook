@@ -148,14 +148,14 @@ return (
 <Chip
 label="Clickable Link"
 component="a"
-href="https://design.arisglobal.com/agcomp/chip"
+href=""
 clickable
 color="primary"
 />
 <Chip
 label="Clickable Link"
 component="a"
-href="https://design.arisglobal.com/agcomp/chip"
+href=""
 variant="outlined"
 clickable
 color="primary"
