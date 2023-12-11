@@ -52,7 +52,7 @@ CheckBoxPlayground.args = {
 const OverviewDescription = () => {
   return (
     <div>
-      <div class="css-14m39zm p.sbdocs">
+      <div>
         Checkboxes can be used to turn an option on or off. If you have multiple
         options appearing in a list, you can preserve space by using checkboxes
         instead of on/off switches. If you have a single option, avoid using a
